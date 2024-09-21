@@ -1,6 +1,7 @@
 # PA_Java
 
 Utilizando o conceito de operadores aritméticos :
+
 • Faça um algoritmo que leia:
 o Valor total de uma fatura
 o Número de parcelas
@@ -10,7 +11,9 @@ o Percentual de multa por atraso
 o Valor total com desconto para pagamento antecipado
 o Valor de cada parcela com multa (imprima quantos reais de multa estão sendo 
 pagos em cada parcela).
+
 Utilizando o conceito de operador lógico e relacional, programe os códigos em Java a seguir:
+
 • Leia a idade e verifique se a pessoa tem mais de 21 anos.
 • Leia o salário e informe se o valor é maior que 5 vezes o salário mínimo.
 • Leia a altura e verifique se é maior que 1,75 m
