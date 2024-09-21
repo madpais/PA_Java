@@ -20,7 +20,9 @@ Utilizando o conceito de operador lógico e relacional, programe os códigos em 
 • .Leia o peso e informe se é maior que 70 kg.
 • Leia o sobrenome e verifique se é diferente do seu.
 • Leia o gênero e informe se é igual a 'f'.
-Com a aula de estrutura de condicionais, programe o seguinte os exercícios abaixo 
+
+Com a aula de estrutura de condicionais, programe o seguinte os exercícios abaixo:
+
 • Leia o nome da pessoa e verifique se é igual ao seu, imprimindo: “Pessoa com nome 
 igual” ou “Pessoa com o nome diferente”
 • Faça a mesma coisa para idade, peso, altura e mais 3 informações sobre a pessoa à sua 
